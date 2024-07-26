@@ -19,10 +19,10 @@ if (jugada == jugada_comp):
     print(f'Usaste {jugada}, la computadora uso {jugada_comp}')
     print("Resultado: Empate")
 elif (jugada == 'piedra' and jugada_comp=='tijeras') or (jugada == 'papel' and jugada_comp=='piedra') or (jugada=='tijeras' and jugada_comp=='papel'): 
-    print(f'Usaste {jugada}, la computadora uso{jugada_comp}')
+    print(f'Usaste {jugada}, la computadora uso {jugada_comp}')
     print("Resultado: Ganaste")
 else:
-    print(f'Usaste {jugada}, la computadora uso: {jugada_comp}')
+    print(f'Usaste {jugada}, la computadora uso {jugada_comp}')
     print("Resultado: Perdiste")
 
 
