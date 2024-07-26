@@ -7,6 +7,7 @@ Este repositorio contiene dos ejercicios de Python. El primero calcula el Índic
 ### Descripción
 
 Este ejercicio solicita al usuario su peso en kilogramos y su altura en centímetros para calcular su Índice de Masa Corporal (IMC). Luego, proporciona una clasificación del IMC según las categorías de la Organización Mundial de la Salud (OMS).
+![CalcularIMC](https://github.com/user-attachments/assets/5a04fe80-22ef-4009-9645-303a8c23d198)
 
 ### Instrucciones
 
@@ -44,3 +45,16 @@ Este ejercicio permite al usuario jugar una partida de "Piedra, Papel o Tijeras"
 - Sistema Operativo Windows, Linux, MacOS
 - Lenguaje de programación Python 3.12
 
+## Instalación del Proyecto
+
+Clonar el repositorio
+
+git clone git@github.com:vanemn/Modulo3-desafio-python.git
+
+
+Ingresar a la carpeta del proyecto
+Modulo3-desafio-python
+
+## Autor
+
+- [Vanessa Morales](https://github.com/vanemn)
