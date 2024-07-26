@@ -7,7 +7,6 @@ Este repositorio contiene dos ejercicios de Python. El primero calcula el Índic
 ### Descripción
 
 Este ejercicio solicita al usuario su peso en kilogramos y su altura en centímetros para calcular su Índice de Masa Corporal (IMC). Luego, proporciona una clasificación del IMC según las categorías de la Organización Mundial de la Salud (OMS).
-![CalcularIMC](https://github.com/user-attachments/assets/5a04fe80-22ef-4009-9645-303a8c23d198)
 
 ### Instrucciones
 
@@ -24,6 +23,9 @@ Este ejercicio solicita al usuario su peso en kilogramos y su altura en centíme
 - **Obesidad grado 1**: 30 <= IMC < 35
 - **Obesidad grado 2**: 35 <= IMC < 40
 - **Obesidad grado 3**: IMC >= 40
+  
+### Diagrama de flujo
+![CalcularIMC](https://github.com/user-attachments/assets/5a04fe80-22ef-4009-9645-303a8c23d198)
 
 ## Ejercicio 2: Juego de Piedra, Papel o Tijeras
 
